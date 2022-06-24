@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+#header{
+    background-color: #385898;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+}
+
+#sidebar{
+    background-color: pink;
+    height: 600px;
+    width: 30%;
+    float: left;
+}
+
+#main{
+    background-color: chocolate;
+    height: 600px;
+    width: 70%;
+    float: left;
+}
+
+#footer{
+    background-color: greenyellow;
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+

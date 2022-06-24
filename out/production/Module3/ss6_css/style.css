@@ -1,0 +1,11 @@
+#header{
+    background-color: green;
+    height: 100px;
+    width: 100%;
+}
+#sidebar{
+    background-color: aqua;
+    width: 20%;
+    height: auto;
+    float: left;
+}
